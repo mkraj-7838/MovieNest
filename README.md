@@ -13,7 +13,7 @@ A web-based application that fetches and displays popular movies using The Movie
 
 ## Demo
 
-Check out the live demo: [Demo Link](#)
+Check out the live demo: [Demo Link](https://mkraj-7838.github.io/MovieNest/)
 
 ## Installation
 
@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps:
 
 2. **Navigate to the project directory**
     ```sh
-    cd movie-search-app
+    cd MovieNest
     ```
 
 3. **Open `index.html` in your browser**
